@@ -11,7 +11,7 @@ function App() {
       0: '#2EA4D8',
     },
     barThickness: 5,
-  })
+  });
 
   return (
     <>
